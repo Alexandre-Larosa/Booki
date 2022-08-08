@@ -1,0 +1,9 @@
+htmL {
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
